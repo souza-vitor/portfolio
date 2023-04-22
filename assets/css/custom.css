@@ -31,3 +31,8 @@ body {
     border-bottom: 4px solid var(--blue);
     padding-bottom: 2px;
 }
+
+footer.section {
+    background-color: var(--darker-grey);
+    padding: 2em 0;
+}
