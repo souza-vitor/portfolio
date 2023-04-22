@@ -22,6 +22,11 @@ body {
     max-height: 600px;
 }
 
+.container.border {
+    border-top: 1px solid var(--light-grey);
+    padding-top: 2em;
+}
+
 .underline {
     border-bottom: 4px solid var(--blue);
     padding-bottom: 2px;
